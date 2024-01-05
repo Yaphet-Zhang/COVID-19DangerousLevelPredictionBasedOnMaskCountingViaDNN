@@ -1,0 +1,27 @@
+bigface
+
+data/1.jpg 
+data/2.jpg
+data/3.jpg
+data/4.jpg
+data/6.jpg
+data/7.jpg
+data/sannomiya1.jpg
+data/sannomiya2.jpg
+data/tanaka1.jpg
+data/tanaka2.jpg
+data/tanaka3.jpg
+
+results/1.jpg
+results/3_AdaBoost.jpg
+results/3_PyramidBox.jpg
+results/3.jpg
+results/sannomiya1_result.jpg
+results/sannomiya2_result.jpg
+
+# so big
+utils/data.npy
+
+
+
+summary.pptx
